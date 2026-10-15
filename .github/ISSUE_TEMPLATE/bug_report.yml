@@ -1,0 +1,39 @@
+name: Bug report
+description: Something in Gizmo Gunners isn't working right
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for helping make Gizmo Gunners better! Please don't post personal information or purchase details here; issues are public.
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What did you expect, and what happened instead?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: How can we make it happen again?
+      placeholder: "1. Start mission 3\n2. Switch to the Goo Launcher\n3. ..."
+  - type: input
+    id: mode
+    attributes:
+      label: Mode and mission
+      placeholder: "Story mission 7, Survival wave 12, Bot Deathmatch (Hard)..."
+  - type: input
+    id: device
+    attributes:
+      label: Phone model and Android version
+      placeholder: "Pixel 8, Android 15"
+  - type: input
+    id: version
+    attributes:
+      label: Game version
+      description: Settings, bottom of the screen
+  - type: dropdown
+    id: graphics
+    attributes:
+      label: Graphics setting
+      options: ["Low", "Medium", "High", "Not sure"]
