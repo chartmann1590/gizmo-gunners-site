@@ -1,6 +1,6 @@
 # Gizmo Gunners website
 
-The website for **Gizmo Gunners: Toon Bot Shooter**, a bright cartoon 3D shooter for Android by Hartmann Studios. Take on squads of goofy AI robots in story missions, Survival waves and Bot Deathmatch. Fully offline, no pay-to-win, no loot boxes.
+The website for **Gizmo Gunners: Robot Shooter**, a bright cartoon 3D shooter for Android by Hartmann Studios. Take on squads of goofy AI robots in story missions, Survival waves and Bot Deathmatch. Fully offline, no pay-to-win, no loot boxes.
 
 Live: https://chartmann1590.github.io/gizmo-gunners-site/
 
